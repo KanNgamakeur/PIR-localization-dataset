@@ -8,15 +8,15 @@ This data contains single person localization data collected from PIR sensors
 1.folder structure
      dataset
   	-training_data
-            - training_data_LR.mat
-	    - training_data_LRUD.mat
-            - training_data_RLUD.mat
-            - training_data_UD.mat
+		- training_data_LR.mat
+		- training_data_LRUD.mat
+		- training_data_RLUD.mat
+		- training_data_UD.mat
   	-testing_data
-	    - sc1.mat
-            - sc2.mat
-            - sc3.mat
-            - sc4.mat
+		- sc1.mat
+		- sc2.mat
+		- sc3.mat
+		- sc4.mat
 	    
 2. mat file structure
 	
