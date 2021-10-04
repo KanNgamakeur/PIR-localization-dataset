@@ -6,6 +6,7 @@ PIR Localization dataset
 This data contains single person localization data collected from PIR sensors 
 
 1.folder structure
+
      dataset
   	-training_data
 		- training_data_LR.mat
